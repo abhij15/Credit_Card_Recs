@@ -1,0 +1,226 @@
+[
+  {
+    "card_id": "chase_sapphire_preferred",
+    "name": "Chase Sapphire Preferred",
+    "issuer": "Chase",
+    "annual_fee": 95,
+    "rewards": {
+      "dining": 3.0,
+      "travel": 3.0,
+      "default": 1.0
+    },
+    "signup_bonus": 60000,
+    "signup_bonus_spend": 4000,
+    "credit_score_min": 690,
+    "foreign_transaction_fee": false
+  },
+  {
+    "card_id": "chase_sapphire_reserve",
+    "name": "Chase Sapphire Reserve",
+    "issuer": "Chase",
+    "annual_fee": 550,
+    "rewards": {
+      "dining": 3.0,
+      "travel": 3.0,
+      "default": 1.0
+    },
+    "signup_bonus": 60000,
+    "signup_bonus_spend": 4000,
+    "credit_score_min": 720,
+    "foreign_transaction_fee": false
+  },
+  {
+    "card_id": "chase_freedom_unlimited",
+    "name": "Chase Freedom Unlimited",
+    "issuer": "Chase",
+    "annual_fee": 0,
+    "rewards": {
+      "default": 1.5
+    },
+    "signup_bonus": 20000,
+    "signup_bonus_spend": 500,
+    "credit_score_min": 680,
+    "foreign_transaction_fee": true
+  },
+  {
+    "card_id": "amex_gold",
+    "name": "American Express Gold",
+    "issuer": "American Express",
+    "annual_fee": 250,
+    "rewards": {
+      "dining": 4.0,
+      "groceries": 4.0,
+      "travel": 3.0,
+      "default": 1.0
+    },
+    "signup_bonus": 60000,
+    "signup_bonus_spend": 4000,
+    "credit_score_min": 700,
+    "foreign_transaction_fee": true
+  },
+  {
+    "card_id": "amex_platinum",
+    "name": "American Express Platinum",
+    "issuer": "American Express",
+    "annual_fee": 695,
+    "rewards": {
+      "travel": 5.0,
+      "default": 1.0
+    },
+    "signup_bonus": 80000,
+    "signup_bonus_spend": 6000,
+    "credit_score_min": 720,
+    "foreign_transaction_fee": false
+  },
+  {
+    "card_id": "capital_one_venture",
+    "name": "Capital One Venture",
+    "issuer": "Capital One",
+    "annual_fee": 95,
+    "rewards": {
+      "default": 2.0
+    },
+    "signup_bonus": 75000,
+    "signup_bonus_spend": 4000,
+    "credit_score_min": 690,
+    "foreign_transaction_fee": false
+  },
+  {
+    "card_id": "capital_one_venturex",
+    "name": "Capital One Venture X",
+    "issuer": "Capital One",
+    "annual_fee": 395,
+    "rewards": {
+      "travel": 5.0,
+      "dining": 2.0,
+      "groceries": 2.0,
+      "gas": 2.0,
+      "default": 2.0
+    },
+    "signup_bonus": 75000,
+    "signup_bonus_spend": 4000,
+    "credit_score_min": 700,
+    "foreign_transaction_fee": false
+  },
+  {
+    "card_id": "citi_double_cash",
+    "name": "Citi Double Cash",
+    "issuer": "Citi",
+    "annual_fee": 0,
+    "rewards": {
+      "default": 2.0
+    },
+    "signup_bonus": 0,
+    "signup_bonus_spend": 0,
+    "credit_score_min": 680,
+    "foreign_transaction_fee": true
+  },
+  {
+    "card_id": "citi_premier",
+    "name": "Citi Premier",
+    "issuer": "Citi",
+    "annual_fee": 95,
+    "rewards": {
+      "dining": 3.0,
+      "gas": 3.0,
+      "groceries": 3.0,
+      "travel": 3.0,
+      "default": 1.0
+    },
+    "signup_bonus": 60000,
+    "signup_bonus_spend": 4000,
+    "credit_score_min": 690,
+    "foreign_transaction_fee": true
+  },
+  {
+    "card_id": "discover_it",
+    "name": "Discover It",
+    "issuer": "Discover",
+    "annual_fee": 0,
+    "rewards": {
+      "default": 1.5
+    },
+    "signup_bonus": 0,
+    "signup_bonus_spend": 0,
+    "credit_score_min": 670,
+    "foreign_transaction_fee": true
+  },
+  {
+    "card_id": "wells_fargo_autograph",
+    "name": "Wells Fargo Autograph",
+    "issuer": "Wells Fargo",
+    "annual_fee": 0,
+    "rewards": {
+      "dining": 3.0,
+      "travel": 3.0,
+      "gas": 3.0,
+      "default": 1.0
+    },
+    "signup_bonus": 20000,
+    "signup_bonus_spend": 1000,
+    "credit_score_min": 680,
+    "foreign_transaction_fee": true
+  },
+  {
+    "card_id": "us_bank_altitude_reserve",
+    "name": "US Bank Altitude Reserve",
+    "issuer": "US Bank",
+    "annual_fee": 400,
+    "rewards": {
+      "dining": 3.0,
+      "travel": 3.0,
+      "default": 1.0
+    },
+    "signup_bonus": 50000,
+    "signup_bonus_spend": 4500,
+    "credit_score_min": 700,
+    "foreign_transaction_fee": false
+  },
+  {
+    "card_id": "boa_premium_rewards",
+    "name": "Bank of America Premium Rewards",
+    "issuer": "Bank of America",
+    "annual_fee": 95,
+    "rewards": {
+      "dining": 2.0,
+      "travel": 2.0,
+      "default": 1.5
+    },
+    "signup_bonus": 60000,
+    "signup_bonus_spend": 4000,
+    "credit_score_min": 690,
+    "foreign_transaction_fee": false
+  },
+  {
+    "card_id": "capital_one_savor_one",
+    "name": "Capital One SavorOne",
+    "issuer": "Capital One",
+    "annual_fee": 0,
+    "rewards": {
+      "dining": 3.0,
+      "entertainment": 3.0,
+      "groceries": 3.0,
+      "default": 1.0
+    },
+    "signup_bonus": 20000,
+    "signup_bonus_spend": 500,
+    "credit_score_min": 680,
+    "foreign_transaction_fee": false
+  },
+  {
+    "card_id": "amex_blue_cash_preferred",
+    "name": "Amex Blue Cash Preferred",
+    "issuer": "American Express",
+    "annual_fee": 95,
+    "rewards": {
+      "groceries": 6.0,
+      "gas": 3.0,
+      "default": 1.0
+    },
+    "signup_bonus": 20000,
+    "signup_bonus_spend": 3000,
+    "credit_score_min": 680,
+    "foreign_transaction_fee": true
+  }
+]
+
